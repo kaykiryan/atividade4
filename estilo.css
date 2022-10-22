@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+#cabecalho{
+    background-color: #21022d;
+    text-align: center;
+    color: white;
+}
+
+#corpo{
+  background-color: #e2d8e7; 
+  color: #21022d;
+  margin: 24px;
+  padding: 16px;
+}
+
+#rodapé{
+    background-color: #21022d;
+    text-align: center;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+#conteudo{
+    padding-left: 64px;
+    padding-top: 32px;
+}
+
+#secaolactose{
+    text-align: center;
+    margin-top: 64px;
+    
+}
+
+#imagemlactose{
+    width:600px;
+    height: 300px;
+}
